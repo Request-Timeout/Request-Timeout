@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Request-Timeout
-- 👀 I’m interested in learning
+- 👀 I’m interested in learning, constructive criticism is welcome
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on C#
 - 📫 How to reach me https://twitter.com/req_timeout
